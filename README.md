@@ -6,6 +6,14 @@
 
 第一步：了解框架运行流程，确定项目目录结构
 
+运行流程：
+
+![](https://github.com/shixinke/iframework/blob/master/static/images/process.png)
+
+目录结构：
+
+![](https://github.com/shixinke/iframework/blob/master/static/images/dir.png)
+
 第二步：开发应用入口文件和框架入口文件 
 
 第三步：开发框架核心(配置类、路由类、控制器类、模型类、视图类)
